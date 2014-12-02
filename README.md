@@ -2,7 +2,7 @@
 
 Openjdk7 basic [Dockerfiles][df] for automated builds on [docker hub][dhub].
 
-Based on official `centos` image.
+Based on `grossws/centos6` image.
 
 Is part of the [docker-components][dcomp] repo.
 
